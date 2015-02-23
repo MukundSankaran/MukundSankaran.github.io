@@ -25,7 +25,7 @@ body {
 .navbar-fixed-top a {
   color: #efefef;
 }
-.navbar-fixed-top li:hover {
+.navbar-fixed-top li a:hover, .navbar-fixed-top li a:focus {
   background-color: #efefef;
   color: #000;
 }
