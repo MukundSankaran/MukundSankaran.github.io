@@ -12,12 +12,12 @@ body {
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 60px;
-  background-color: #f5f5f5;
+  background-color: #333;
   text-align: center;
 }
 .container .text-muted {
   margin: 20px 0;
-  color: #555;
+  color: #efefef;
 }
 
 /* Custom Navbar */
@@ -41,6 +41,9 @@ body {
 }
 .navbar-custom .navbar-text {
   color: #ffffff;
+}
+.navbar-custom .navbar-nav {
+  float: right;
 }
 .navbar-custom .navbar-nav > li:last-child > a {
   border-right: 1px solid #142630;
