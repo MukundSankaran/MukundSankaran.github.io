@@ -29,3 +29,7 @@ body {
   background-color: #efefef;
   color: #000;
 }
+.navbar-fixed-top li.active {
+  background-color: #ccc;
+  color: #000;
+}
