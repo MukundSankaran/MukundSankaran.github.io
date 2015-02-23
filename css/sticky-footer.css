@@ -19,3 +19,6 @@ body {
   margin: 20px 0;
   color: #555;
 }
+.navbar-fixed-top {
+  background-color: #000;
+}
