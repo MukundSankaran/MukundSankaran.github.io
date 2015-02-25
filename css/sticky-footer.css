@@ -4,20 +4,19 @@ html {
 }
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 60px;
+  margin-bottom: 40px;
 }
 .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 60px;
-  background-color: #333;
-  text-align: center;
+  height: 40px;
+  background-color: #ddd;
 }
 .container .text-muted {
-  margin: 20px 0;
-  color: #efefef;
+  margin: 10px 0;
+  color: #333;
 }
 
 /* Custom Navbar */
