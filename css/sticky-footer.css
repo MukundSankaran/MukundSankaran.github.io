@@ -26,7 +26,7 @@ body {
 }
 #custom-main-navbar.navbar-default {
     font-size: 14px;
-    background-color: rgba(77, 137, 227, 0.81);
+    background-color: rgba(77, 137, 227, 1);
     border-bottom-width: 1px;
 }
 #custom-main-navbar.navbar-default .navbar-nav>li>a {
